@@ -2,6 +2,8 @@ CS
 ==
 Counter-Strike 1.6 implementation in JavaScript utilizing state of the art browser APIs.
 
+<i>Please note: I am no longer (and have not been for a long time) hacking on this project. Some stuff may still work, some stuff may not work!</i>
+
 <b>Current state</b>
 <ul>
 <li>Parses and renders .bsp files (version 30) containing map data</li>
